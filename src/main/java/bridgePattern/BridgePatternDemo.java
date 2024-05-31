@@ -2,8 +2,8 @@ package bridgePattern;
 
 import bridgePattern.abstraction.Circle;
 import bridgePattern.abstraction.Shape;
-import bridgePattern.drawApi.GreenCircle;
-import bridgePattern.drawApi.RedCircle;
+import bridgePattern.bridgeImplementer.GreenCircle;
+import bridgePattern.bridgeImplementer.RedCircle;
 
 public class BridgePatternDemo {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package bridgePattern.abstraction;
 
-import bridgePattern.drawApi.DrawAPI;
+import bridgePattern.bridgeImplementer.DrawAPI;
 
 //Create an abstract class Shape using the DrawAPI interface.
 public abstract class Shape {

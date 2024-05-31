@@ -1,6 +1,6 @@
 package bridgePattern.abstraction;
 
-import bridgePattern.drawApi.DrawAPI;
+import bridgePattern.bridgeImplementer.DrawAPI;
 
 //Create concrete class implementing the Shape interface.
 public class Circle extends Shape {

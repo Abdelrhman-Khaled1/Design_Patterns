@@ -1,4 +1,4 @@
-package bridgePattern.drawApi;
+package bridgePattern.bridgeImplementer;
 
 
 //Create concrete bridge implementer classes implementing the DrawAPI interface.
